@@ -1,0 +1,1 @@
+### HATEOAS Linkbuilder for Go
